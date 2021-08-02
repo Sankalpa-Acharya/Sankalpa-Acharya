@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Working on **[My Protfolio](https://sankalpa.info.np/)**
 
-- 🌱 I’m currently learning **Full stack development and Web hacking.**
+- 🌱 I’m  learning **Full stack development and Web hacking.**
 
 - 👨‍💻 All of my projects are available at **[ Projects-101 Repo](https://github.com/Sankalpa-Acharya/Projects-101)**
 
