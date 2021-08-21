@@ -10,7 +10,7 @@
 
 - 🌱 I’m  learning **Full stack development and Web hacking.**
 
-- 👨‍💻 All of my projects are available at **[ Projects-101 Repo](https://github.com/Sankalpa-Acharya/Projects-101)**
+- 👨‍💻 All of my projects are available at **[ Here](https://sankalpa.info.np/projects/project.html)**
 
 - 📫 How to reach me **sankalpaacharya6609@gmail.com**
 
