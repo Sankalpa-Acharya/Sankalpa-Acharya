@@ -5,11 +5,11 @@
 
 <br>
 
-<h1 align="center">A Passionate Full Stack Developer and Cyber Security Enthusiast </h1>
+<h2 align="center">A Passionate Full Stack Developer and Cyber Security Enthusiast </h2>
 <hr>
 
 
-<b style="font-size:14px">Undergraduate Computer Science and Engineering Student with Experience in Full Stack Web Development 🌏 and Web Application Penetration Testing 🐱‍💻. Passionate about DevSecOps 🐳👨🏻‍💻 and Web Development🕸️.</b>
+<p style="font-size:15px">Undergraduate Computer Science and Engineering Student with Experience in Full Stack Web Development 🌏 and Web Application Penetration Testing 🐱‍💻. Passionate about DevSecOps 🐳👨🏻‍💻 and Web Development🕸️.</p>
 <br>
 
 <h2>Checkout some of my projects</h2>
