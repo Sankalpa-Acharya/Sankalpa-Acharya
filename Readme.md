@@ -22,7 +22,9 @@
 <h2>GitHub Stats ⭐️</h2>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=sankalpa-acharya&count_private=true&show_icons=true&theme=github_dark">
-
+</p>
+<p align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpa-acharya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <br>
 
