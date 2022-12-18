@@ -24,10 +24,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sankalpa-acharya&count_private=true&show_icons=true&theme=github_dark">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpa-acharya&layout=compact)](https://github.com/sankalpa-acharya/github-readme-stats)
-
 <p align="right">
 
+  <img alot="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpa-acharya&theme=tokyonight&show_icons=true&hide=html,css,ocaml&langs_count=3&custom_title=Most%20Used%20Languages" height=180>
 </p>
 <br>
 
