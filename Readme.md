@@ -22,12 +22,10 @@
 <h2>GitHub Stats ⭐️</h2>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=sankalpa-acharya&count_private=true&show_icons=true&theme=github_dark">
+   <img alot="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpa-acharya&theme=tokyonight&show_icons=true&hide=html,css,ocaml&langs_count=3&custom_title=Most%20Used%20Languages" height=180>
 </p>
 
-<p align="right">
 
-  <img alot="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpa-acharya&theme=tokyonight&show_icons=true&hide=html,css,ocaml&langs_count=3&custom_title=Most%20Used%20Languages" height=180>
-</p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
