@@ -5,7 +5,7 @@
 
 <br>
 
-<h2 align="center">A Passionate Full Stack Developer and Cyber Security Enthusiast </h2>
+<h1 align="center">A Passionate Full Stack Developer and Cyber Security Enthusiast </h1>
 <hr>
 
 
