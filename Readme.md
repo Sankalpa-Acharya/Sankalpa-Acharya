@@ -9,7 +9,7 @@
 <hr>
 
 
-<p style="font-size:14px">Undergraduate Computer Science and Engineering Student with Experience in Full Stack Web Development 🌏 and Web Application Penetration Testing 🐱‍💻. Passionate about DevSecOps 🐳👨🏻‍💻, and Web Development🕸️.</p>
+<b style="font-size:14px">Undergraduate Computer Science and Engineering Student with Experience in Full Stack Web Development 🌏 and Web Application Penetration Testing 🐱‍💻. Passionate about DevSecOps 🐳👨🏻‍💻 and Web Development🕸️.</b>
 <br>
 
 <h2>Checkout some of my projects</h2>
