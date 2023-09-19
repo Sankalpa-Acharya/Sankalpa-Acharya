@@ -1,6 +1,6 @@
 <h1>Hi 👋</h1>
 <p align="left"> 
-<img src="img/carbon.png">
+
 
 <br>
 
