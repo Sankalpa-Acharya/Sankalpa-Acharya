@@ -1,6 +1,5 @@
 <h1>Hi 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sankalpa-Acharya&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpa-acharya" /> </p>
-
+<p align="left"> 
 <img src="img/carbon.png">
 
 <br>
